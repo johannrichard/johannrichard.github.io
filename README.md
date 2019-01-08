@@ -1,3 +1,1 @@
-# johannrichard.github.io
-
-barfusspiraten.ch
+# barfusspiraten.ch
